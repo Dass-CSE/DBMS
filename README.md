@@ -1,20 +1,24 @@
-# SQL Programs Index 📘
+# 📚 DBMS SQL Scripts Index
 
-A curated collection of SQL scripts organized by topic. Click any link below to view the specific file and explore SQL in action.
+This repository contains a collection of SQL scripts and related experiments for database management system (DBMS) learning and practice.  
+Click on any file name below to view its content.
+
+| #  | File / Folder | Description |
+|----|---------------|-------------|
+| 1  | [experiment12_gui_login](experiment12_gui_login) | GUI-based login system experiment |
+| 2  | [experiment13_firebase_tasks](experiment13_firebase_tasks) | Firebase real-time database task experiment |
+| 3  | [01_ddl_dml_commands.sql](01_ddl_dml_commands.sql) | DDL & DML commands demonstration |
+| 4  | [02_foreign_key_referential_integrity.sql](02_foreign_key_referential_integrity.sql) | Foreign key & referential integrity examples |
+| 5  | [03_aggregate_functions_filtering.sql](03_aggregate_functions_filtering.sql) | Aggregate functions & filtering queries |
+| 6  | [04_subqueries_simple_joins.sql](04_subqueries_simple_joins.sql) | Subqueries & simple join operations |
+| 7  | [05_natural_equi_outer_joins.sql](05_natural_equi_outer_joins.sql) | Natural, equi, and outer joins |
+| 8  | [06_user_defined_functions_procedures.sql](06_user_defined_functions_procedures.sql) | User-defined functions & stored procedures |
+| 9  | [07_dd_tcl_transactions.sql](07_dd_tcl_transactions.sql) | Data definition & transaction control |
+| 10 | [08_sql_triggers.sql](08_sql_triggers.sql) | SQL trigger examples |
+| 11 | [09_views_and_indexing.sql](09_views_and_indexing.sql) | Views & indexing operations |
+| 12 | [10_XML_with_Schema_Validation.sql](10_XML_with_Schema_Validation.sql) | XML with schema validation in SQL |
+| 13 | [11_nosql_models.sql](11_nosql_models.sql) | NoSQL data model examples |
+| 14 | [14_data_normalization.sql](14_data_normalization.sql) | Data normalization techniques |
 
 ---
-
-## 📂 Contents
-
-1. [DDL and DML Commands](01_ddl_dml_commands.sql)
-2. [Foreign Key & Referential Integrity](02_foreign_key_referential_integrity.sql)
-3. [Aggregate Functions & Filtering](03_aggregate_functions_filtering.sql)
-4. [Subqueries & Simple Joins](04_subqueries_simple_joins.sql)
-5. [Natural Join, Equi Join & Outer Join](05_natural_equi_outer_joins.sql)
-6. [User-Defined Functions & Procedures](06_user_defined_functions_procedures.sql)
-7. [DCL, TCL, and Transactions](07_dcl_tcl_transactions.sql)
-8. [SQL Triggers](08_sql_triggers.sql)
-9. [Views and Indexing](09_views_and_indexing.sql)
-10. [Working with XML & Schema Validation](10_XML_with_Schema_Validation.sql)
-11. [NoSQL Data Models](11_nosql_models.sql)
 
