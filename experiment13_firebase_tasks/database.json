@@ -1,0 +1,18 @@
+{
+  "tasks": {
+    "-Mabc123example1": {
+      "title": "Set up project repo",
+      "assignee": "Alice",
+      "priority": "high",
+      "status": "inprogress",
+      "createdAt": 1690000000000
+    },
+    "-Mabc123example2": {
+      "title": "Design DB schema",
+      "assignee": "Bob",
+      "priority": "medium",
+      "status": "todo",
+      "createdAt": 1690001000000
+    }
+  }
+}
