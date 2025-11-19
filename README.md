@@ -18,7 +18,9 @@ Click on any file name below to view its content.
 | 11 | [10_nosql_models.sql](11_nosql_models.sql) | NoSQL data model examples |
 | 12 | [experiment11_gui_login](experiment12_gui_login) | GUI-based login system experiment |
 | 13 | [experiment12_firebase_tasks](experiment13_firebase_tasks) | Firebase real-time database task experiment |
-| 14 | [15_data_normalization.sql](14_data_normalization.sql) | Data normalization techniques |
+| 14 | [13 Healthcare RBAC](13 Healthcare RBAC) | Role-Based Access Control (RBAC) in a Healthcare Information System experiment |
+| 15 | [14 Retail Analytical quries](14 Retail Analytical quries) | Analytical Queries in a Retail Database|
+| 16 | [15_data_normalization.sql](14_data_normalization.sql) | Data normalization techniques |
 
 ---
 
