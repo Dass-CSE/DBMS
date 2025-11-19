@@ -1,4 +1,4 @@
--- Experiment 14: Database Design Using Normalization
+-- Experiment 15: Database Design Using Normalization
 -- ---------------------------------------------------
 -- UNF (Unnormalized Form): A single table with repeating groups
 
@@ -68,3 +68,4 @@ INSERT INTO Instructor (InstructorName, Department) VALUES
 
 UPDATE Course SET InstructorID = 1 WHERE CourseName IN ('Math', 'Physics', 'Chemistry');
 UPDATE Course SET InstructorID = 2 WHERE CourseName = 'Biology';
+
